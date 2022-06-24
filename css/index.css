@@ -28,11 +28,8 @@ h1{
     margin-bottom: 10px;   
 }
 
-a {  
-    padding: 10px; 
-    display: inline-block;
-    max-height: 150px;
-
+#links{
+    display: inline-block;padding: 10px; 
 }
 
 a img{
